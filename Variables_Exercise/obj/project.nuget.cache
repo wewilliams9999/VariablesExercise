@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgP36R83W4as5kxGX4LN71kNK0JQvDxzp6gOH0kkNco7kDqqDuqND9WTfE1E8NvE+9sGypv+JA6mgV+oaC9bYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\Variables_Exercise\\Variables_Exercise\\Variables_Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
